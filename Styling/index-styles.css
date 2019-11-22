@@ -27,7 +27,7 @@
 .navigation ul li a:hover{
   text-decoration: underline;
   color: rgb(110, 17, 17);
-  font-size: 25px;
+ 
 }
 #body_content{
   box-sizing: border-box;
@@ -74,4 +74,8 @@
   animation-duration: 10s;
   font-size: 12px;
   justify-content: flex;
+  padding: ;
+}
+.hobbylist {
+  font-style: italic;
 }

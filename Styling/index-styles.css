@@ -1,8 +1,5 @@
 /* Style the header with lightest brown colour, move the links to the right */
-#header{
-  background-color:rgb(133, 114, 83);
-  height: 80px;
-}
+
 .navigation{
   background-color: rgb(133, 114, 83);
   height: 80px;
@@ -31,4 +28,31 @@
   text-decoration: underline;
   color: rgb(110, 17, 17);
   font-size: 25px;
+}
+#body_content{
+  box-sizing: border-box;
+}
+}
+.column-left {
+  width:25%;
+  background-color: rgb(97, 51, 24);
+}
+.column-right {
+  width: 75%;
+  background-color: rgb(133, 87, 35);
+}
+.image-circle img {
+  border-radius: 50%;
+  float: left;
+  height: 200px;
+  width: 200px;
+  
+}
+p.name {
+  font-style: Bold;
+  font-size: 20px;
+}
+p.intro {
+  font-style: italic;
+  font-size: 15px;
 }

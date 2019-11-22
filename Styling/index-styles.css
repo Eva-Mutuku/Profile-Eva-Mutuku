@@ -32,40 +32,46 @@
 #body_content{
   box-sizing: border-box;
   height:600px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(240, 213, 169);
+  width:25%;
+  margin-left: 4%;
+  margin-right: 5%; 
 }
-.row {
-  float: left;
+#body_content img{
+  margin: 0 auto;
+  margin-top:10px;
 }
-
-.column-left {
-  width: 25%;
-}
-.column-right {
-  width: 75%;
-}
-
 .image-circle img {
   border-radius: 50%;
   float: left;
   height: 200px;
   width: 200px; 
 }
-p.name {
+.name {
   font-style: Bold;
   font-size: 20px;
-}
-p.intro {
-  font-style: italic;
-  font-size: 15px;
 }
 @media screen and (max-width:300px){
   .column {
     width:100%;
   }
 }
+#master{
+  display: flex;
+  background-color: rgb(236, 209, 164);
+}
+.changing-content {
+  margin-left: 0 auto;
+  align-content: center;
+  width: 60%;
+}
 #footer {
   background-color: rgb(133, 114, 83);
   height: 80px;
   animation-name: nava;
   animation-duration: 10s;
+  font-size: 12px;
+  justify-content: flex;
 }

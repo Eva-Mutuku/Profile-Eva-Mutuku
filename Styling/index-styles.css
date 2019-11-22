@@ -31,21 +31,24 @@
 }
 #body_content{
   box-sizing: border-box;
+  height:600px;
 }
+.row {
+  float: left;
+}
+
 .column-left {
-  width:25%;
-  background-color: rgb(97, 51, 24);
+  width: 25%;
 }
 .column-right {
   width: 75%;
-  background-color: rgb(133, 87, 35);
 }
+
 .image-circle img {
   border-radius: 50%;
   float: left;
   height: 200px;
-  width: 200px;
-  
+  width: 200px; 
 }
 p.name {
   font-style: Bold;
@@ -55,8 +58,14 @@ p.intro {
   font-style: italic;
   font-size: 15px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:300px){
   .column {
     width:100%;
   }
+}
+#footer {
+  background-color: rgb(133, 114, 83);
+  height: 80px;
+  animation-name: nava;
+  animation-duration: 10s;
 }

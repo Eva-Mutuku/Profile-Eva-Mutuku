@@ -85,3 +85,12 @@
 .Interests li{
   font-style: italic;
 }
+.Icons img{
+  border-radius: 50%;
+  float: left;
+  height: 35px;
+  width: 35px;
+}
+.Icons li{
+  text-decoration: none;
+}

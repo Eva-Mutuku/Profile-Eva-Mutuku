@@ -79,6 +79,9 @@
   justify-content: flex;
   padding: ;
 }
-.hobbylist {
+.hobbylist li{
+  font-style: italic;
+}
+.Interests li{
   font-style: italic;
 }

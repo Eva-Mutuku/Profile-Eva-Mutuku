@@ -1,0 +1,41 @@
+[33mcommit c1821e1511dd4595ce387e069aef14be609bfd3d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 07:11:51 2019 -0800
+
+    Add changes for all pages added
+
+[33mcommit a55d2c42c6fa51b19774ae93530d440abd5585f5[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 06:14:57 2019 -0800
+
+    Style the homepage.
+
+[33mcommit 91ba154c1d1beb627a81a3a900ae4d90785d691c[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 05:16:02 2019 -0800
+
+    Add footer
+
+[33mcommit 01ab5dd33448d653658e2c10a038f9ca1b62504d[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 04:25:01 2019 -0800
+
+    Add responsive design to the columns. If less than 600px, stack.
+
+[33mcommit e0ba918b494a40af0e3818dbd9e8242b872815fe[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 04:21:18 2019 -0800
+
+    Split body into two columns
+
+[33mcommit 83e90ae76698faf6c561594ea23b90a836921696[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 02:26:29 2019 -0800
+
+    Add profile picture
+
+[33mcommit 08774df168e1df1b6b511775a95186c404c7b7bb[m
+Author: Eva Mutuku <mutileeva@gmail.com>
+Date:   Fri Nov 22 01:53:05 2019 -0800
+
+    Add Header skeleton

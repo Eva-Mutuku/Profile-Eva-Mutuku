@@ -57,6 +57,11 @@
     display: none;
   }
 }
+.Me p{
+  line-height: 150%;
+  font-style: italic;
+  font-size: 120%;
+}
 #master{
   display: flex;
   background-color: rgb(236, 209, 164);
@@ -71,9 +76,13 @@
   height: 80px;
   animation-name: nava;
   animation-duration: 10s;
-  font-size: 12px;
   justify-content: flex;
-  padding: ;
+}
+#footer p{
+  text-align: center;
+  font-size: 100%;
+  margin: auto;
+  padding: 2%;
 }
 .hobbylist li{
   font-style: italic;
